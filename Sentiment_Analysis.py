@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 10 16:57:40 2017
 
-@author: Eight
-"""
 #import pymysql,sys,global_variable as gv
 from itertools import chain
 from functools import partial
